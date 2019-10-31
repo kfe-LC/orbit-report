@@ -1,5 +1,5 @@
 export class Satellite {
-    name: String;
+    name: string;
     orbitType: string;
     type: string;
     operational: boolean;
